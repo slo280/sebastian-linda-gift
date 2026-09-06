@@ -1,0 +1,27 @@
+GITHUB PAGES UPLOAD INSTRUCTIONS
+
+1. On GitHub, create a new PUBLIC repository named:
+   sebastian-linda-gift
+
+2. Open the repository and choose:
+   Add file > Upload files
+
+3. Unzip this package on your computer.
+
+4. Upload ALL items inside the unzipped folder—not the ZIP itself.
+   Make sure index.html is visible at the top level of the repository.
+
+5. Commit the uploaded files to the main branch.
+
+6. Open:
+   Settings > Pages
+
+7. Under Build and deployment, choose:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+
+8. Save and wait a few minutes. Your link should be:
+   https://slo280.github.io/sebastian-linda-gift/
+
+Important: The repository, website files, pictures, and audio will be public.
